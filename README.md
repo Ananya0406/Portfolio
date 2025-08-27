@@ -8,3 +8,4 @@ SAP Projects--ODATA services, ALV reports with custom actions, document/file han
 Cloud Projects--Deploying API's apps on AWS
 AI/Data Projects--Machine learning models and data analysis with Python.
 
+My goal is to combine enterprise SAP expertise with modern technologies (AI, cloud, Data) to build end-to-end solutions.
