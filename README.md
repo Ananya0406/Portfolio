@@ -1,5 +1,4 @@
 # Portfolio
-About Me
 Welcome to My portfolio!
 I specialize in SAP ABAP & ODATA development, with hands on experience in buidling reports, services and documentation management solutions.Along side SAP expertise, I am exploring cloud computing, AI and data projects to borden my skills & stay aligned with today's technology trends.
 
